@@ -17,15 +17,15 @@ google-cloud-vision - artifact is necessary for detecting labels.
 ## 2. Configuration Set up in Google Cloud Console
 #### 1. Create a new project. <br>
 ![Project Creation](https://github.com/rojabalakrishnan/ExerciseSaas-LabelDetection/blob/main/Images/Screen%20Shot%202020-11-09%20at%205.25.14%20PM.png) <br>
-2. Enable Vision API. <br>
+#### 2. Enable Vision API. <br>
 ![Screen Shot 2020-11-09 at 5.25.49 PM.png](https://github.com/rojabalakrishnan/ExerciseSaas-LabelDetection/blob/main/Images/Screen%20Shot%202020-11-09%20at%205.25.49%20PM.png)<br>
-3. Grant Service account to access the project.
+#### 3. Grant Service account to access the project.
 ![Screen Shot 2020-11-09 at 5.26.58 PM.png](https://github.com/rojabalakrishnan/ExerciseSaas-LabelDetection/blob/main/Images/Screen%20Shot%202020-11-09%20at%205.26.58%20PM.png) <br>
-4. Authenticating with Service account.
+#### 4. Authenticating with Service account.
 ![Screen Shot 2020-11-09 at 5.27.22 PM.png](https://github.com/rojabalakrishnan/ExerciseSaas-LabelDetection/blob/main/Images/Screen%20Shot%202020-11-09%20at%205.27.22%20PM.png) <br>
-5. Verify the Service Account status.
+#### 5. Verify the Service Account status.
 ![Screen Shot 2020-11-09 at 5.27.42 PM.png](https://github.com/rojabalakrishnan/ExerciseSaas-LabelDetection/blob/main/Images/Screen%20Shot%202020-11-09%20at%205.27.42%20PM.png) <br>
-6. create a key to request the vision api from your application.
+#### 6. create a key to request the vision api from your application.
 ![Screen Shot 2020-11-09 at 5.27.56 PM.png](https://github.com/rojabalakrishnan/ExerciseSaas-LabelDetection/blob/main/Images/Screen%20Shot%202020-11-09%20at%205.27.56%20PM.png) <br>
 
 ## 3. Create Application Access Page and its corresponding servlets
