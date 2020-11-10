@@ -15,7 +15,7 @@ Create a Maven Java project in eclipse. Add the necessary dependencies in the <i
 google-cloud-vision - artifact is necessary for detecting labels.
 
 ## 2. Configuration Set up in Google Cloud Console
-1. Create a new project. <br>
+#### 1. Create a new project. <br>
 ![Project Creation](https://github.com/rojabalakrishnan/ExerciseSaas-LabelDetection/blob/main/Images/Screen%20Shot%202020-11-09%20at%205.25.14%20PM.png) <br>
 2. Enable Vision API. <br>
 ![Screen Shot 2020-11-09 at 5.25.49 PM.png](https://github.com/rojabalakrishnan/ExerciseSaas-LabelDetection/blob/main/Images/Screen%20Shot%202020-11-09%20at%205.25.49%20PM.png)<br>
