@@ -22,7 +22,7 @@ google-cloud-vision - artifact is necessary for detecting labels.
 3. Grant Service account to access the project.
 ![Screen Shot 2020-11-09 at 5.26.58 PM.png](Images/Screen Shot 2020-11-09 at 5.26.58 PM.png) <br>
 4. Authenticating with Service account.
-![Screen Shot 2020-11-09 at 5.27.22 PM.png](Images/Screen Shot 2020-11-09 at 5.27.22 PM.png) <br>
+![Screen Shot 2020-11-09 at 5.27.22 PM.png]( Images/Screen Shot 2020-11-09 at 5.27.22 PM.png) <br>
 5. Verify the Service Account status.
 ![Screen Shot 2020-11-09 at 5.27.42 PM.png](Images/Screen Shot 2020-11-09 at 5.27.42 PM.png) <br>
 6. create a key to request the vision api from your application.
