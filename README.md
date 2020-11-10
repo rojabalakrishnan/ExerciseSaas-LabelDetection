@@ -15,9 +15,9 @@ Create a Maven Java project in eclipse. Add the necessary dependencies in the <i
 google-cloud-vision - artifact is necessary for detecting labels.
 
 ## 2. Configuration Set up in Google Cloud Console
-1. Create a new project.
+1. Create a new project. <br>
 ![Project Creation](Images/Screen Shot 2020-11-09 at 5.25.14 PM.png) <br>
-2. Enable Vision API.
+2. Enable Vision API. <br>
 ![Screen Shot 2020-11-09 at 5.25.49 PM.png](Images/Screen Shot 2020-11-09 at 5.25.49 PM.png) <br>
 3. Grant Service account to access the project.
 ![Screen Shot 2020-11-09 at 5.26.58 PM.png](Images/Screen Shot 2020-11-09 at 5.26.58 PM.png) <br>
